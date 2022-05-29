@@ -105,7 +105,7 @@ In the architecture, you can configure your architecture with these conditions,
 
 - Git & Github for Version Control System
 
-### At the end of the project, students will be able to;
+### At the end of the project, the user will be able to;
 
 - Write Ansible playbook in different ways which are without Roles and with Roles
 
