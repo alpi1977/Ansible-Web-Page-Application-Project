@@ -83,7 +83,7 @@ In the architecture, you can configure your architecture with these conditions,
 
 ## Expected Outcome
 
-![Todo Web Page](./todo_web.png)
+![Todo Web Page](./project_output.png)
 
 ### At the end of the project, following topics are to be covered;
 
